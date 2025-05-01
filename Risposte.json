@@ -1,315 +1,296 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fswiss\fcharset0 Helvetica-Bold;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs26\fsmilli13333 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 json\
-\pard\pardeftab720\qc\partightenfactor0
-
-\f1\b\fs30 \cf0 \
-\pard\pardeftab720\qc\partightenfactor0
-
-\fs28 \cf0 \
-\pard\pardeftab720\partightenfactor0
-
-\f0\b0\fs26\fsmilli13333 \cf0 \{\
-  "responses": [\
-    \{\
-      "keyword": "ciao",\
-      "response": "Ciao! Benvenuto/a! Come posso aiutarti oggi con l'app La Buona Notizia? Puoi chiedermi degli orari, gli appuntamenti, dove si trova la chiesa, come partecipare a una connect o info sull'app."\
-    \},\
-    \{\
-      "keyword": "salve",\
-      "response": "Salve! \'c8 un piacere aiutarti. Come posso esserti utile oggi con l'app La Buona Notizia?"\
-    \},\
-    \{\
-      "keyword": "buongiorno",\
-      "response": "Buongiorno! Come posso supportarti oggi? Puoi chiedermi qualsiasi cosa sull'app o sulla chiesa!"\
-    \},\
-    \{\
-      "keyword": "buonasera",\
-      "response": "Buonasera! Come posso aiutarti con l'app La Buona Notizia oggi?"\
-    \},\
-    \{\
-      "keyword": "come stai",\
-      "response": "Sto bene, grazie per averlo chiesto! E tu come stai? Come posso aiutarti oggi con l'app La Buona Notizia?"\
-    \},\
-    \{\
-      "keyword": "grazie",\
-      "response": "Prego! Sono qui per aiutarti. C'\'e8 altro che posso fare per te?"\
-    \},\
-    \{\
-      "keyword": "orari",\
-      "response": "Gli orari delle riunioni principali sono mercoled\'ec alle 19:30, domenica alle 10:30 e alle 19:00. Per le connect, consulta la sezione 'Connect' nell'app!"\
-    \},\
-    \{\
-      "keyword": "orario culto",\
-      "response": "I culti si tengono mercoled\'ec alle 19:30 e domenica alle 10:30 e 19:00. Vuoi sapere altro?"\
-    \},\
-    \{\
-      "keyword": "appuntamenti",\
-      "response": "Gli appuntamenti principali sono: mercoled\'ec alle 19:30, domenica alle 10:30 e 19:00. Per connect ed eventi, controlla l'app!"\
-    \},\
-    \{\
-      "keyword": "quando",\
-      "response": "Gli orari principali sono mercoled\'ec alle 19:30 e domenica alle 10:30 e 19:00. Per eventi specifici, guarda nell'app!"\
-    \},\
-    \{\
-      "keyword": "prossimo evento",\
-      "response": "Per il prossimo evento, dai un'occhiata alla sezione 'Eventi' dell'app!"\
-    \},\
-    \{\
-      "keyword": "riunione",\
-      "response": "Le riunioni principali sono mercoled\'ec alle 19:30 e domenica alle 10:30 e 19:00."\
-    \},\
-    \{\
-      "keyword": "calendario",\
-      "response": "Il calendario \'e8: mercoled\'ec 19:30, domenica 10:30 e 19:00. Per connect ed eventi, vedi l'app!"\
-    \},\
-    \{\
-      "keyword": "dove",\
-      "response": "La chiesa \'e8 in Via del Caravaggio, Sant'Antimo, Napoli."\
-    \},\
-    \{\
-      "keyword": "dove siete",\
-      "response": "Siamo in Via del Caravaggio, Sant'Antimo, Napoli. Apri 'Connect' per la mappa!"\
-    \},\
-    \{\
-      "keyword": "chiesa",\
-      "response": "La chiesa La Buona Notizia \'e8 in Via del Caravaggio, Sant'Antimo, Napoli. Orari: mercoled\'ec 19:30, domenica 10:30 e 19:00."\
-    \},\
-    \{\
-      "keyword": "indirizzo",\
-      "response": "Via del Caravaggio, Sant'Antimo, Napoli."\
-    \},\
-    \{\
-      "keyword": "come arrivare",\
-      "response": "Siamo in Via del Caravaggio, Sant'Antimo, Napoli. Usa la mappa nella sezione 'Connect'!"\
-    \},\
-    \{\
-      "keyword": "connect",\
-      "response": "Vai nella sezione 'Connect' dell'app, scegli una localit\'e0 e iscriviti. Si tengono ogni 15 giorni circa!"\
-    \},\
-    \{\
-      "keyword": "partecipare connect",\
-      "response": "Apri 'Connect' nell'app, seleziona la tua zona e iscriviti!"\
-    \},\
-    \{\
-      "keyword": "cos'\'e8 connect",\
-      "response": "Le connect sono incontri locali per connettersi e crescere insieme. Info nella sezione 'Connect'!"\
-    \},\
-    \{\
-      "keyword": "connect online",\
-      "response": "S\'ec, c'\'e8 la Connect Online! Cerca i dettagli in 'Connect'."\
-    \},\
-    \{\
-      "keyword": "incontro locale",\
-      "response": "Gli incontri locali sono le connect. Vai su 'Connect' per partecipare!"\
-    \},\
-    \{\
-      "keyword": "app",\
-      "response": "L'app offre video (Home), donazioni (Dona), connect (Connect) ed eventi (Eventi). Esplora il menu!"\
-    \},\
-    \{\
-      "keyword": "video",\
-      "response": "Nella sezione 'Home' trovi video come predicazioni e aggiornamenti."\
-    \},\
-    \{\
-      "keyword": "donazioni",\
-      "response": "Fai una donazione dalla sezione 'Dona'. \'c8 semplice e sicuro!"\
-    \},\
-    \{\
-      "keyword": "eventi",\
-      "response": "Gli eventi sono nella sezione 'Eventi': conferenze, giornate speciali e altro!"\
-    \},\
-    \{\
-      "keyword": "funzioni app",\
-      "response": "Video (Home), donazioni (Dona), connect (Connect), eventi (Eventi). Usa il menu in basso!"\
-    \},\
-    \{\
-      "keyword": "youth",\
-      "response": "Le riunioni giovani sono il venerd\'ec alle 20:30. Ti aspettiamo!"\
-    \},\
-    \{\
-      "keyword": "giovani",\
-      "response": "Ogni venerd\'ec alle 20:30 c'\'e8 la riunione per i giovani!"\
-    \},\
-    \{\
-      "keyword": "ragazzi",\
-      "response": "Per i ragazzi c'\'e8 la riunione giovani il venerd\'ec alle 20:30."\
-    \},\
-    \{\
-      "keyword": "pastori",\
-      "response": "I Pastori sono Umberto e Deborah Nettuno."\
-    \},\
-    \{\
-      "keyword": "pastore",\
-      "response": "I Pastori sono Umberto e Deborah Nettuno."\
-    \},\
-    \{\
-      "keyword": "visione",\
-      "response": "La nostra missione \'e8 diffondere la Buona Notizia e creare comunit\'e0. Vieni a trovarci!"\
-    \},\
-    \{\
-      "keyword": "chi siete",\
-      "response": "Siamo La Buona Notizia, guidati dai pastori Umberto e Deborah Nettuno, a Sant'Antimo, Napoli."\
-    \},\
-    \{\
-      "keyword": "missione",\
-      "response": "Diffondere la Buona Notizia e costruire una comunit\'e0 di fede."\
-    \},\
-    \{\
-      "keyword": "bimbi",\
-      "response": "Per i bimbi c'\'e8 il servizio KIDS durante i culti domenicali (10:30 e 19:00). Un posto divertente e sicuro!"\
-    \},\
-    \{\
-      "keyword": "bambini",\
-      "response": "Il servizio KIDS \'e8 per i bambini di tutte le et\'e0 durante i culti domenicali (10:30 e 19:00)."\
-    \},\
-    \{\
-      "keyword": "kids",\
-      "response": "Il servizio KIDS \'e8 attivo domenica alle 10:30 e 19:00 per i pi\'f9 piccoli!"\
-    \},\
-    \{\
-      "keyword": "scuola domenicale",\
-      "response": "Abbiamo il servizio KIDS per tutte le et\'e0 durante i culti domenicali (10:30 e 19:00)."\
-    \},\
-    \{\
-      "keyword": "famiglia",\
-      "response": "Porta tutta la famiglia! I culti sono mercoled\'ec 19:30 e domenica 10:30 e 19:00, con il servizio KIDS per i bimbi."\
-    \},\
-    \{\
-      "keyword": "zoe",\
-      "response": "Zoe \'e8 un prodotto speciale. Contatta la segreteria al 351 020 00 28 per acquistarlo!"\
-    \},\
-    \{\
-      "keyword": "acquistare zoe",\
-      "response": "Per Zoe, chiama la segreteria al 351 020 00 28."\
-    \},\
-    \{\
-      "keyword": "contatti",\
-      "response": "Numero: 351 020 00 28, email: INFO@CHURCHLBN.IT."\
-    \},\
-    \{\
-      "keyword": "telefono",\
-      "response": "Chiama il 351 020 00 28 per info!"\
-    \},\
-    \{\
-      "keyword": "email",\
-      "response": "Scrivici a INFO@CHURCHLBN.IT!"\
-    \},\
-    \{\
-      "keyword": "aiuto",\
-      "response": "Dimmi di cosa hai bisogno: orari, connect, donazioni o altro?"\
-    \},\
-    \{\
-      "keyword": "preghiera",\
-      "response": "Per una preghiera, contatta il 351 020 00 28 o vieni a una riunione!"\
-    \},\
-    \{\
-      "keyword": "potete pregare per me",\
-      "response": "Per inviare la tua richiesta di preghiera, registrati e invia la tua richiesta e il team pregher\'e0 per te!"\
-    \},\
-    \{\
-      "keyword": "iscriversi",\
-      "response": "Iscriviti a connect o eventi dall'app o chiama il 351 020 00 28."\
-    \},\
-    \{\
-      "keyword": "partecipare",\
-      "response": "Partecipa ai culti (mercoled\'ec 19:30, domenica 10:30 e 19:00) o alle connect (sezione 'Connect')!"\
-    \},\
-    \{\
-      "keyword": "cosa fate",\
-      "response": "Culti, connect, eventi e video sull'app. Vieni a trovarci!"\
-    \},\
-    \{\
-      "keyword": "perch\'e9",\
-      "response": "Per diffondere la Buona Notizia e costruire comunit\'e0!"\
-    \},\
-    \{\
-      "keyword": "chi pu\'f2 partecipare",\
-      "response": "Tutti sono benvenuti, di ogni et\'e0 e background!"\
-    \},\
-    \{\
-      "keyword": "come funziona",\
-      "response": "Culti, connect ed eventi: usa l'app per partecipare!"\
-    \},\
-    \{\
-      "keyword": "battesimo",\
-      "response": "Parlane con i pastori durante una riunione o contatta la segreteria al 351 020 00 28!"\
-    \},\
-    \{\
-      "keyword": "come battezzarsi",\
-      "response": "Per il battesimo, partecipa ai culti e chiedi informazioni alla segreteria al 351 020 00 28."\
-    \},\
-    \{\
-      "keyword": "voglio battezzarmi",\
-      "response": "Se desideri battezzarti recati all'info Point e ti daranno tutte le info!"\
-    \},\
-    \{\
-      "keyword": "predicazioni",\
-      "response": "Puoi trovare le ultime predicazioni nella sezione 'Home' dell'app. Sono aggiornate settimanalmente!"\
-    \},\
-    \{\
-      "keyword": "streaming",\
-      "response": "I culti domenicali delle 10:30 sono trasmessi in streaming. Seguici su Facebook e Youtube!"\
-    \},\
-    \{\
-      "keyword": "diretta",\
-      "response": "Seguici in diretta ogni domenica alle 19:30 in Youtube e Facebook."\
-    \},\
-    \{\
-      "keyword": "nuovi arrivati",\
-      "response": "I nuovi arrivati sono sempre i benvenuti! Vieni a un culto e presentati ai nostri accoglitori, saranno felici di guidarti!"\
-    \},\
-    \{\
-      "keyword": "prima volta",\
-      "response": "Per la tua prima volta, vieni 15 minuti prima e presentati agli accoglitori all'ingresso. Ti aiuteranno a orientarti!"\
-    \},\
-    \{\
-      "keyword": "servire",\
-      "response": "Ci sono molte opportunit\'e0 per servire: accoglienza, lode, ordine, kids, media e altro. Chiedi info durante un culto!"\
-    \},\
-    \{\
-      "keyword": "card di servizio",\
-      "response": "Se desideri servire puoi compilare la card di servizio all'info Point."\
-    \},\
-    \{\
-      "keyword": "eventi speciali",\
-      "response": "Gli eventi speciali si trovano nella sezione 'Eventi'. Abbiamo conferenze, ritiri e giornate speciali durante l'anno!"\
-    \},\
-    \{\
-      "keyword": "ritiro",\
-      "response": "I ritiri sono organizzati periodicamente. Controlla la sezione 'Eventi' per le prossime date!"\
-    \},\
-    \{\
-      "keyword": "conferenza",\
-      "response": "Le conferenze sono eventi speciali che organizziamo durante l'anno. Vedi la sezione 'Eventi' per dettagli!"\
-    \},\
-    \{\
-      "keyword": "social media",\
-      "response": "Seguici sui social! Cerca 'La Buona Notizia' su Facebook e Instagram per restare aggiornato!"\
-    \},\
-    \{\
-      "keyword": "facebook",\
-      "response": "Seguici su Facebook cercando 'La Buona Notizia' per aggiornamenti e contenuti extra!"\
-    \},\
-    \{\
-      "keyword": "instagram",\
-      "response": "Il nostro profilo Instagram \'e8 @churchlbn. Seguici per foto, storie e aggiornamenti!"\
-    \},\
-    \{\
-      "keyword": "parcheggio",\
-      "response": "Abbiamo un parcheggio disponibile. Segui le indicazioni quando arrivi!"\
-    \},\
-    \{\
-      "keyword": "accessibilit\'e0",\
-      "response": "La nostra struttura \'e8 accessibile per persone con mobilit\'e0 ridotta. Contatta la segreteria per assistenza specifica!"\
-    \}\
-  ]\
-\}\
+{
+  "responses": [
+    {
+      "keyword": "ciao",
+      "response": "Ciao! Benvenuto/a! Come posso aiutarti oggi con l'app La Buona Notizia? Puoi chiedermi degli orari, gli appuntamenti, dove si trova la chiesa, come partecipare a una connect o info sull'app."
+    },
+    {
+      "keyword": "salve",
+      "response": "Salve! È un piacere aiutarti. Come posso esserti utile oggi con l'app La Buona Notizia?"
+    },
+    {
+      "keyword": "buongiorno",
+      "response": "Buongiorno! Come posso supportarti oggi? Puoi chiedermi qualsiasi cosa sull'app o sulla chiesa!"
+    },
+    {
+      "keyword": "buonasera",
+      "response": "Buonasera! Come posso aiutarti con l'app La Buona Notizia oggi?"
+    },
+    {
+      "keyword": "come stai",
+      "response": "Sto bene, grazie per averlo chiesto! E tu come stai? Come posso aiutarti oggi con l'app La Buona Notizia?"
+    },
+    {
+      "keyword": "grazie",
+      "response": "Prego! Sono qui per aiutarti. C'è altro che posso fare per te?"
+    },
+    {
+      "keyword": "orari",
+      "response": "Gli orari delle riunioni principali sono mercoledì alle 19:30, domenica alle 10:30 e alle 19:00. Per le connect, consulta la sezione 'Connect' nell'app!"
+    },
+    {
+      "keyword": "orario culto",
+      "response": "I culti si tengono mercoledì alle 19:30 e domenica alle 10:30 e 19:00. Vuoi sapere altro?"
+    },
+    {
+      "keyword": "appuntamenti",
+      "response": "Gli appuntamenti principali sono: mercoledì alle 19:30, domenica alle 10:30 e 19:00. Per connect ed eventi, controlla l'app!"
+    },
+    {
+      "keyword": "quando",
+      "response": "Gli orari principali sono mercoledì alle 19:30 e domenica alle 10:30 e 19:00. Per eventi specifici, guarda nell'app!"
+    },
+    {
+      "keyword": "prossimo evento",
+      "response": "Per il prossimo evento, dai un'occhiata alla sezione 'Eventi' dell'app!"
+    },
+    {
+      "keyword": "riunione",
+      "response": "Le riunioni principali sono mercoledì alle 19:30 e domenica alle 10:30 e 19:00."
+    },
+    {
+      "keyword": "calendario",
+      "response": "Il calendario è: mercoledì 19:30, domenica 10:30 e 19:00. Per connect ed eventi, vedi l'app!"
+    },
+    {
+      "keyword": "dove",
+      "response": "La chiesa è in Via del Caravaggio, Sant'Antimo, Napoli."
+    },
+    {
+      "keyword": "dove siete",
+      "response": "Siamo in Via del Caravaggio, Sant'Antimo, Napoli. Apri 'Connect' per la mappa!"
+    },
+    {
+      "keyword": "chiesa",
+      "response": "La chiesa La Buona Notizia è in Via del Caravaggio, Sant'Antimo, Napoli. Orari: mercoledì 19:30, domenica 10:30 e 19:00."
+    },
+    {
+      "keyword": "indirizzo",
+      "response": "Via del Caravaggio, Sant'Antimo, Napoli."
+    },
+    {
+      "keyword": "come arrivare",
+      "response": "Siamo in Via del Caravaggio, Sant'Antimo, Napoli. Usa la mappa nella sezione 'Connect'!"
+    },
+    {
+      "keyword": "connect",
+      "response": "Vai nella sezione 'Connect' dell'app, scegli una località e iscriviti. Si tengono ogni 15 giorni circa!"
+    },
+    {
+      "keyword": "partecipare connect",
+      "response": "Apri 'Connect' nell'app, seleziona la tua zona e iscriviti!"
+    },
+    {
+      "keyword": "cos'è connect",
+      "response": "Le connect sono incontri locali per connettersi e crescere insieme. Info nella sezione 'Connect'!"
+    },
+    {
+      "keyword": "connect online",
+      "response": "Sì, c'è la Connect Online! Cerca i dettagli in 'Connect'."
+    },
+    {
+      "keyword": "incontro locale",
+      "response": "Gli incontri locali sono le connect. Vai su 'Connect' per partecipare!"
+    },
+    {
+      "keyword": "app",
+      "response": "L'app offre video (Home), donazioni (Dona), connect (Connect) ed eventi (Eventi). Esplora il menu!"
+    },
+    {
+      "keyword": "video",
+      "response": "Nella sezione 'Home' trovi video come predicazioni e aggiornamenti."
+    },
+    {
+      "keyword": "donazioni",
+      "response": "Fai una donazione dalla sezione 'Dona'. È semplice e sicuro!"
+    },
+    {
+      "keyword": "eventi",
+      "response": "Gli eventi sono nella sezione 'Eventi': conferenze, giornate speciali e altro!"
+    },
+    {
+      "keyword": "funzioni app",
+      "response": "Video (Home), donazioni (Dona), connect (Connect), eventi (Eventi). Usa il menu in basso!"
+    },
+    {
+      "keyword": "youth",
+      "response": "Le riunioni giovani sono il venerdì alle 20:30. Ti aspettiamo!"
+    },
+    {
+      "keyword": "giovani",
+      "response": "Ogni venerdì alle 20:30 c'è la riunione per i giovani!"
+    },
+    {
+      "keyword": "ragazzi",
+      "response": "Per i ragazzi c'è la riunione giovani il venerdì alle 20:30."
+    },
+    {
+      "keyword": "pastori",
+      "response": "I Pastori sono Umberto e Deborah Nettuno."
+    },
+    {
+      "keyword": "pastore",
+      "response": "I Pastori sono Umberto e Deborah Nettuno."
+    },
+    {
+      "keyword": "visione",
+      "response": "La nostra missione è diffondere la Buona Notizia e creare comunità. Vieni a trovarci!"
+    },
+    {
+      "keyword": "chi siete",
+      "response": "Siamo La Buona Notizia, guidati dai pastori Umberto e Deborah Nettuno, a Sant'Antimo, Napoli."
+    },
+    {
+      "keyword": "missione",
+      "response": "Diffondere la Buona Notizia e costruire una comunità di fede."
+    },
+    {
+      "keyword": "bimbi",
+      "response": "Per i bimbi c'è il servizio KIDS durante i culti domenicali (10:30 e 19:00). Un posto divertente e sicuro!"
+    },
+    {
+      "keyword": "bambini",
+      "response": "Il servizio KIDS è per i bambini di tutte le età durante i culti domenicali (10:30 e 19:00)."
+    },
+    {
+      "keyword": "kids",
+      "response": "Il servizio KIDS è attivo domenica alle 10:30 e 19:00 per i più piccoli!"
+    },
+    {
+      "keyword": "scuola domenicale",
+      "response": "Abbiamo il servizio KIDS per tutte le età durante i culti domenicali (10:30 e 19:00)."
+    },
+    {
+      "keyword": "famiglia",
+      "response": "Porta tutta la famiglia! I culti sono mercoledì 19:30 e domenica 10:30 e 19:00, con il servizio KIDS per i bimbi."
+    },
+    {
+      "keyword": "zoe",
+      "response": "Zoe è un prodotto speciale. Contatta la segreteria al 351 020 00 28 per acquistarlo!"
+    },
+    {
+      "keyword": "acquistare zoe",
+      "response": "Per Zoe, chiama la segreteria al 351 020 00 28."
+    },
+    {
+      "keyword": "contatti",
+      "response": "Numero: 351 020 00 28, email: INFO@CHURCHLBN.IT."
+    },
+    {
+      "keyword": "telefono",
+      "response": "Chiama il 351 020 00 28 per info!"
+    },
+    {
+      "keyword": "email",
+      "response": "Scrivici a INFO@CHURCHLBN.IT!"
+    },
+    {
+      "keyword": "aiuto",
+      "response": "Dimmi di cosa hai bisogno: orari, connect, donazioni o altro?"
+    },
+    {
+      "keyword": "preghiera",
+      "response": "Per una preghiera, contatta il 351 020 00 28 o vieni a una riunione!"
+    },
+    {
+      "keyword": "potete pregare per me",
+      "response": "Per inviare la tua richiesta di preghiera, registrati e invia la tua richiesta e il team pregherà per te!"
+    },
+    {
+      "keyword": "iscriversi",
+      "response": "Iscriviti a connect o eventi dall'app o chiama il 351 020 00 28."
+    },
+    {
+      "keyword": "partecipare",
+      "response": "Partecipa ai culti (mercoledì 19:30, domenica 10:30 e 19:00) o alle connect (sezione 'Connect')!"
+    },
+    {
+      "keyword": "cosa fate",
+      "response": "Culti, connect, eventi e video sull'app. Vieni a trovarci!"
+    },
+    {
+      "keyword": "perché",
+      "response": "Per diffondere la Buona Notizia e costruire comunità!"
+    },
+    {
+      "keyword": "chi può partecipare",
+      "response": "Tutti sono benvenuti, di ogni età e background!"
+    },
+    {
+      "keyword": "come funziona",
+      "response": "Culti, connect ed eventi: usa l'app per partecipare!"
+    },
+    {
+      "keyword": "battesimo",
+      "response": "Parlane con i pastori durante una riunione o contatta la segreteria al 351 020 00 28!"
+    },
+    {
+      "keyword": "come battezzarsi",
+      "response": "Per il battesimo, partecipa ai culti e chiedi informazioni alla segreteria al 351 020 00 28."
+    },
+    {
+      "keyword": "voglio battezzarmi",
+      "response": "Se desideri battezzarti recati all'info Point e ti daranno tutte le info!"
+    },
+    {
+      "keyword": "predicazioni",
+      "response": "Puoi trovare le ultime predicazioni nella sezione 'Home' dell'app. Sono aggiornate settimanalmente!"
+    },
+    {
+      "keyword": "streaming",
+      "response": "I culti domenicali delle 10:30 sono trasmessi in streaming. Seguici su Facebook e Youtube!"
+    },
+    {
+      "keyword": "diretta",
+      "response": "Seguici in diretta ogni domenica alle 19:30 in Youtube e Facebook."
+    },
+    {
+      "keyword": "nuovi arrivati",
+      "response": "I nuovi arrivati sono sempre i benvenuti! Vieni a un culto e presentati ai nostri accoglitori, saranno felici di guidarti!"
+    },
+    {
+      "keyword": "prima volta",
+      "response": "Per la tua prima volta, vieni 15 minuti prima e presentati agli accoglitori all'ingresso. Ti aiuteranno a orientarti!"
+    },
+    {
+      "keyword": "servire",
+      "response": "Ci sono molte opportunità per servire: accoglienza, lode, ordine, kids, media e altro. Chiedi info durante un culto!"
+    },
+    {
+      "keyword": "card di servizio",
+      "response": "Se desideri servire puoi compilare la card di servizio all'info Point."
+    },
+    {
+      "keyword": "eventi speciali",
+      "response": "Gli eventi speciali si trovano nella sezione 'Eventi'. Abbiamo conferenze, ritiri e giornate speciali durante l'anno!"
+    },
+    {
+      "keyword": "ritiro",
+      "response": "I ritiri sono organizzati periodicamente. Controlla la sezione 'Eventi' per le prossime date!"
+    },
+    {
+      "keyword": "conferenza",
+      "response": "Le conferenze sono eventi speciali che organizziamo durante l'anno. Vedi la sezione 'Eventi' per dettagli!"
+    },
+    {
+      "keyword": "social media",
+      "response": "Seguici sui social! Cerca 'La Buona Notizia' su Facebook e Instagram per restare aggiornato!"
+    },
+    {
+      "keyword": "facebook",
+      "response": "Seguici su Facebook cercando 'La Buona Notizia' per aggiornamenti e contenuti extra!"
+    },
+    {
+      "keyword": "instagram",
+      "response": "Il nostro profilo Instagram è @churchlbn. Seguici per foto, storie e aggiornamenti!"
+    },
+    {
+      "keyword": "parcheggio",
+      "response": "Abbiamo un parcheggio disponibile. Segui le indicazioni quando arrivi!"
+    },
+    {
+      "keyword": "accessibilità",
+      "response": "La nostra struttura è accessibile per persone con mobilità ridotta. Contatta la segreteria per assistenza specifica!"
+    }
+  ]
 }
